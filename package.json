@@ -1,0 +1,21 @@
+{
+  "name": "payment-providers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js", 
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inna275/payment-providers.git"
+  },
+  "keywords": [],
+  "author": "Inna Denysiuk",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Inna275/payment-providers/issues"
+  },
+  "homepage": "https://github.com/Inna275/payment-providers#readme"
+}
